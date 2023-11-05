@@ -24,7 +24,7 @@ Silpakorn University">
       </div>
       <div class="row">
         <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
-          <div class="container-fluid"> <a class="navbar-brand" href="image/rezume.jpg"
+          <div class="container-fluid"> <a class="navbar-brand" href="images/rezume.jpg"
 
               target="_blank" title="resume"> <img src="images/resume.png" alt="resume"
 
@@ -64,13 +64,13 @@ Silpakorn University">
 
             aria-label="Slide 04"></button> </div>
         <div class="carousel-inner">
-          <div class="carousel-item active"><img src="images/profile.png"
+          <div class="carousel-item active"><img src="images/profile.png" alt="..."
 
-              alt="..." title="profile" class="img-fluid"></div>
-          <div class="carousel-item"><img src="image/bday.png" alt="..." title="bday"
+              title="profile" class="img-fluid"></div>
+          <div class="carousel-item"><img src="images/bday.png" alt="..." title="bday"
 
               class="img-fluid"></div>
-          <div class="carousel-item"><img src="image/edu.png" alt="..." title="edu"
+          <div class="carousel-item"><img src="images/edu.png" alt="..." title="edu"
 
               class="img-fluid"></div>
         </div>
